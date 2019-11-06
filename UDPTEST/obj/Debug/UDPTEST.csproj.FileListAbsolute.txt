@@ -1,0 +1,38 @@
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\bin\Debug\UDPTEST.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\obj\Debug\UDPTEST.exe
+c:\users\administrator\documents\visual studio 2012\Projects\UDPTEST\UDPTEST\obj\Debug\UDPTEST.pdb
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe.config
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\bin\Debug\UDPTEST.pdb
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Form1.resources
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Properties.Resources.resources
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.GenerateResource.cache
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.CoreCompileInputs.cache
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.exe
+C:\Users\Senkro\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.pdb
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe.config
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\bin\Debug\UDPTEST.pdb
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Form1.resources
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Properties.Resources.resources
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.GenerateResource.cache
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.CoreCompileInputs.cache
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.exe
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.pdb
+C:\Users\Senkro\source\repos\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csprojAssemblyReference.cache
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe.config
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\bin\Debug\UDPTEST.exe
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\bin\Debug\UDPTEST.pdb
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csprojAssemblyReference.cache
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Form1.resources
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.Properties.Resources.resources
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.GenerateResource.cache
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.csproj.CoreCompileInputs.cache
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.exe
+C:\Users\DeftrPc5\Desktop\UDPTEST\UDPTEST\obj\Debug\UDPTEST.pdb
